@@ -246,7 +246,7 @@ tbody tr:nth-child(odd) {
 }
 
 .error-message {
-  color: red;
+  color: rgb(180, 28, 28);
   font-size: 14px;
   margin-top: 10px;
 }
