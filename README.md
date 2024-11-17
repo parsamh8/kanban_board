@@ -62,6 +62,8 @@ To use the Kanban Board application, start by navigating to the login page. If y
 
 ![alt text](assets/login-kanban.PNG)
 
+![alt text](assets/landing-page.PNG)
+
 
 ## Tests
 

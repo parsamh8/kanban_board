@@ -245,6 +245,11 @@ tbody tr:nth-child(odd) {
   justify-content: center;
 }
 
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
